@@ -1,4 +1,5 @@
-### Race-and-Emissions-by-County
+
+## Race-and-Emissions-by-County
 # What does this dataset provide?
 This data sets provides a subset of data that compares the amount of emissions per county and the racial demographics per county. The data was sourceed from 2 larger datasets, one from the EPA and another from the United States Census.
 # Why is this data useful?
